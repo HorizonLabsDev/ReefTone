@@ -47,3 +47,53 @@ Wir können diese Datenschutzerklärung anpassen, wenn sich die App oder rechtli
 
 Kontakt
 Bei Fragen zum Datenschutz erreichst du uns unter: horizonlabs.dev@gmail.com
+
+Privacy Policy – Reef Tone
+Last updated: September 27, 2026
+
+This Privacy Policy explains what data the iOS app Reef Tone ("the App") processes and how it is handled.
+
+Data Controller
+Horizon Labs Email: horizonlabs.dev@gmail.com
+
+Core Principle
+Reef Tone processes your photos and videos exclusively on your device. The App has no server of its own, does not transmit your media content to Horizon Labs or any third party, and contains no analytics or tracking software (e.g. no Firebase Analytics, no advertising SDKs, no third-party crash reporting).
+
+What Data Is Processed
+Photos and Videos
+When you import a photo or video into Reef Tone, the App accesses the file you selected via Apple's photo picker (PHPicker) or the file import flow. Color correction happens entirely on your device. The result is only saved to your photo library once you actively trigger this via "Save" or "Export".
+
+Purpose: Importing photos/videos for editing and saving the result.
+Legal basis: Performance of the usage agreement with you (Art. 6(1)(b) GDPR) as well as your explicit permission via the iOS permission dialog.
+Storage location: Exclusively local on your device. Reef Tone does not upload media content to any external server.
+Local App Settings
+Reef Tone stores a few technical settings locally on your device (e.g. selected language, Pro status, number of videos already exported on the free tier, whether a review prompt was already shown). This data never leaves your device and is not transmitted to Horizon Labs.
+
+Purchases and Subscriptions
+If you purchase a Reef Tone Pro subscription or the lifetime unlock via the App Store, the purchase is handled entirely by Apple via StoreKit. Horizon Labs does not receive any payment or credit card data; we only receive an anonymized purchase status from Apple in order to unlock Pro features. Apple's own privacy policy additionally applies.
+
+Feedback by Email
+If you use the "Send Feedback" feature to email horizonlabs.dev@gmail.com, we process the information it contains (e.g. your email address and message content) solely to respond to your inquiry.
+
+Legal basis: Legitimate interest in handling your inquiry (Art. 6(1)(f) GDPR) or your consent by sending the email.
+No Disclosure to Third Parties
+Horizon Labs does not sell or rent out user data. No data is shared with third parties, except for the technically necessary integration of Apple services (App Store, StoreKit, PhotoKit) required to operate the App, which are subject to Apple's own privacy terms.
+
+Permissions
+Reef Tone requests the following iOS permissions:
+
+Photo Library (Read): to import a photo/video you selected.
+Photo Library (Add): to save the corrected result if you choose to.
+You can revoke these permissions at any time in iOS Settings under Settings → Reef Tone.
+
+Your Rights
+Since Reef Tone does not store personal data on its own servers, most access, correction, and deletion rights primarily concern settings stored locally on your device, which you can remove entirely by uninstalling the App. For requests regarding data sent by email, you can contact us at any time at horizonlabs.dev@gmail.com, in particular to:
+
+request information about data stored about you,
+request correction of inaccurate data,
+request deletion of your data.
+Changes to This Privacy Policy
+We may update this Privacy Policy if the App or legal requirements change. The current version is always available at this URL.
+
+Contact
+For privacy-related questions, reach us at: horizonlabs.dev@gmail.com
